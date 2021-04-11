@@ -5,4 +5,4 @@ Part of "Orter" game project written together with my Politechnika Wrocławska f
 ## Engine
 - Godot Engine v3.1+
 
-
+![Screenshot](Screenshot.png?raw=true "Dino game screen")
